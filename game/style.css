@@ -29,7 +29,7 @@
     
 }
 .jump{
-    animation: jump 500ms infinite ease-out;
+    animation: jump 500ms ease-out;
 }
 
 .clouds{
